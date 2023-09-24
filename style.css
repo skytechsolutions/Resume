@@ -12,6 +12,7 @@
 }
 .heading1{
     margin-left: -234px;
+    
 }
 .heading2{
     margin-left: 30px;
@@ -23,6 +24,7 @@
 .border{
     width: auto;
     padding: 5px;
+    text-align: center;
     background-color: rgb(214, 214, 134);
     border: 1px solid rgb(190, 143, 143);
     font-weight: bold;
